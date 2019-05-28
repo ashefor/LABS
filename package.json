@@ -1,0 +1,22 @@
+{
+  "name": "labs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashefor/LABS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashefor/LABS/issues"
+  },
+  "homepage": "https://github.com/ashefor/LABS#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
