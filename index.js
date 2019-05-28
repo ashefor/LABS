@@ -4,4 +4,8 @@ function add(x, y) {
 
 function greetings(){
     return "Hello"
-}
+};
+
+function netw(){
+    return "wow"
+};
